@@ -1,3 +1,3 @@
-# Linguagens Utilizadas:
+# Tecnológias Utilizadas:
 - HTML
 - CSS
