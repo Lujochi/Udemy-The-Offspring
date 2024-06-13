@@ -1,3 +1,3 @@
-#Linguagens Utilizadas:
+# Linguagens Utilizadas:
 - HTML
 - CSS
